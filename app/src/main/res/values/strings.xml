@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+</resources>
